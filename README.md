@@ -40,7 +40,7 @@
 ### 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhgX&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khapu2906&layout=compact" />
 </p>
 
 ---
@@ -48,5 +48,5 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PhgX&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Khapu2906&show_icons=true" />
 </p>
