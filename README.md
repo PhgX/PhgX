@@ -26,7 +26,7 @@
 ### 🚀 Contribution
 
 - 💬 Ask me about:  
-  `Laravel`, `NodeJS`, `PHP`, `Python`, `MySQL`, `PostgreSQL`, `AWS`, `DevOps`
+  `NodeJS`, `Python`, `MySQL`, `Js`, `TypeScript`, `HTML`
 
 ---
 
